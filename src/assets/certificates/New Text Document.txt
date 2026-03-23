@@ -1,0 +1,43 @@
+1. 7. NPTEL – Privacy and Security in Online Social Media
+Date: Jul–Oct 2025 (12-week course)
+Verification Link: https://nptel.ac.in/noc/E_Certificate/NPTEL25CS117S135870187310375445
+Completed an NPTEL-certified course on privacy, security, and risk management in social media platforms.
+Gained knowledge of data protection techniques, online threats, and secure system design principles with a score of 75%.
+
+2. Infosys – Master Generative AI & Tools
+Date: Completed on August 18, 2025 (Issued: August 31, 2025)
+Verification Link: https://verify.onwingspan.com
+Description:
+Completed training on Generative AI concepts and tools including ChatGPT and modern AI workflows.
+Developed practical understanding of AI applications and prompt-based problem solving.
+
+
+3. MongoDB – Building GenAI Apps
+Date: June 29, 2025
+Verification Link: https://drive.google.com/file/d/1lXmaklMrMpDsrTWuAIX7mAhB8JC04fO6/view?usp=sharing
+Description:
+Completed MongoDB learning path focused on building Generative AI-powered applications.
+Learned integration of databases with AI systems for scalable and intelligent app development.
+
+
+4. Coursera (NIIT) – Node.js
+Date: September 2, 2025
+Verification Link: https://coursera.org/verify/F192QS8EDY82
+Description:
+Completed course on server-side JavaScript using Node.js covering backend fundamentals.
+Gained skills in building scalable APIs and handling asynchronous operations.
+
+
+5. LPU – Summer Training (CPE)
+Date: 13 June 2025 – 18 July 2025 (Issued: 13 Aug 2025)
+Verification Link: https://drive.google.com/file/d/1GppuCDKXB08YrRqCBCejzdAgtXKqQ0st/view?usp=sharing
+Description:
+Completed intensive training in Logic Building, Programming, and Data Structures.
+Strengthened problem-solving ability and core programming concepts for real-world applications.
+
+6. LPU (iamneo) – Data Structures & Algorithm
+Date: Duration: 12 Aug 2024 – 02 Dec 2024 (Issued: 05 Dec 2024)
+Verification Link: https://lpucolab438.examly.io/certificate/U2FsdGVkX181huuWYLahy1XYhxfMnnm4qGkf2%2BnC1s0%3D
+Description:
+Completed 72-hour course on Data Structures and Algorithms through iamneo platform.
+Built strong foundation in DSA concepts for coding interviews and software development.

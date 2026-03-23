@@ -1,0 +1,37 @@
+Projects:
+
+1. Edu Portal (MERN)
+
+Edu Portal is a MERN-based learning management system designed for schools and colleges to streamline academic workflows. It enables teachers to share announcements, mark attendance, and create tests, while students can take exams in a structured digital environment. The platform provides instant report generation, allowing teachers to track performance and insights directly from their dashboard.
+
+link- https://github.com/AnuragSinghParmar/Learning-Management-System---MERN
+
+
+2. RoomJI
+
+Room Ji is a MERN-based platform that connects students with affordable hostel accommodations listed by property owners. It allows owners to easily showcase available rooms, while students can browse, compare, and book spaces based on their preferences. The system streamlines the entire booking process with a simple, user-friendly interface for both hosts and students.
+
+link- https://github.com/AnuragSinghParmar/RoomJi
+
+
+3. Market Minds online marketplace:
+
+MarketMinds is a sophisticated, full-stack marketplace platform designed for a seamless e-commerce experience. It features a robust multi-role architecture and secure authentication to assist both buyers and sellers.
+
+link- https://github.com/AnuragSinghParmar/MarketMinds-Online-Marketplace
+
+
+
+4. Secure File Management System
+
+Secure File Management System is a PHP-based application designed for securely sharing data such as text and images. It uses end-to-end encryption to ensure that all transmitted information remains private and protected from unauthorized access. The platform also integrates two-factor authentication, adding an extra layer of security for user accounts and data transfers.
+
+link- https://github.com/AnuragSinghParmar/Secure-File-Management-System
+
+
+5. Tourist guide Platform
+
+
+Tourist Guide Platform is a PHP and Tailwind CSS–powered web application designed to simplify travel planning and tour bookings. It allows users to explore various destinations, view details, and easily book tours based on their preferences. The platform offers a clean, responsive interface for a smooth and engaging user experience.
+
+link- https://github.com/AnuragSinghParmar/Tourist-Guide-Platform
